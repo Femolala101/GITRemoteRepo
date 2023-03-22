@@ -1,1 +1,2 @@
 Hi there we are checking GitHub integration with Jenkins
+TO test if Github SCM integrates with Jenkins Server
